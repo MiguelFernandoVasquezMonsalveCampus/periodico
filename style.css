@@ -6,6 +6,7 @@ body{
     position: absolute;
     /* float: left; */
     width: 15%;
+    left: 19%;
 }
 
 .columna2{
@@ -16,7 +17,7 @@ body{
 
 .columna3{
     position: absolute;
-    right: 0;
+    right: 25%;
     width: 15%;
 }
 
@@ -27,13 +28,14 @@ body{
 .sub-r{
     text-align: center;
     width: 15%;
+    margin-left: 34%;
 }
 
 .sub-l{
     text-align: center;
     width: 15%;
-    margin-left: 84%;
-    margin-top: -4%;
+    margin-left: 50.5%;
+    margin-top: -3.5%;
 }
 
 .separador{
@@ -43,14 +45,14 @@ body{
 .trompeta{
     width: 10%;
     position: absolute;
-    left: 17%;
+    left: 24%;
     top: 0%;
 }
 
 .trompeta1{
     width: 10%;
     position: absolute;
-    right: 17%;
+    right: 25%;
     top: 0%;
 }
 
@@ -60,6 +62,6 @@ body{
 
 .separadorB{
     position: absolute;
-    bottom: -50%;
+    bottom: -80%;
     left: 22%;
 }
