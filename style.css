@@ -1,5 +1,11 @@
-body{
-    background-image: url(img/textura-papel-viejo.jpg);
+.fond{
+    position: absolute;
+    width: 75%;
+    right: 0;
+    left: 0;
+    height: 190%;
+    z-index: -10;
+    margin: auto;
 }
 
 .columna1 {
@@ -23,6 +29,7 @@ body{
 
 .titulo{
     text-align: center;
+    padding-top: 1%;
 }
 
 .sub-r{
